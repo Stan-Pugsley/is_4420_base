@@ -29,4 +29,4 @@
     --Order_header = 
     --Order_line = 
 
--->> STEP 5:  Save this file and upload it to Canvas
+-->> STEP 5:  Copy the contents of this file into Canvas
